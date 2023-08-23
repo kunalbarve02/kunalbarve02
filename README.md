@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">I am a aspiring Back-end developer . Highly motivated and passionate with a strong ability to solve problems and think critically. Able to effectively self-manage during independent projects, as well as collaborate in a team setting. I am always looking to improve and bring best out of myself everyday.</h3>
+<h3 align="center">I am a aspiring Software Engineering especially interested in Backend Technologies. Highly motivated and passionate with a strong ability to solve problems and think critically. Able to effectively self-manage during independent projects, as well as collaborate in a team setting. I am always looking to improve and bring best out of myself everyday.</h3>
 
 - 🌱 I’m currently learning **System design, Cloud Computing(AWS), NestJS**
 
