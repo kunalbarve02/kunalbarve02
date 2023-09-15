@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">I am a aspiring Software Engineering especially interested in Backend Technologies. Highly motivated and passionate with a strong ability to solve problems and think critically. Able to effectively self-manage during independent projects, as well as collaborate in a team setting. I am always looking to improve and bring best out of myself everyday.</h3>
+<h3 align="left">🚀 Aspiring Software Engineer | Backend Developer Intern at BharatGo | Final Year Student at Savitribai Phule Pune University
+
+👋 Hello! I'm a passionate Software Engineer in the making, currently wrapping up my final year of studies at Savitribai Phule Pune University. With a strong foundation in computer science and 5 months of internship experience, I'm committed to keep learning and improving.
+
+🛠️ I've gained hands-on experience with server-side development technologies, allowing me to create dependable backend solutions. I've also worked on designing and managing both SQL and NoSQL databases to ensure data reliability and efficiency.
+
+☁️ I'm skilled at integrating cloud solutions into backend services, improving scalability and resource efficiency for enhanced performance.
+
+👨‍💻 I'm passionate about leveraging technology to solve real-world problems and eager to contribute my knowledge and skills to impactful projects.</h3>
 
 - 🌱 I’m currently learning **System design, Cloud Computing(AWS), NestJS**
 
