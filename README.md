@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kunalbarve02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BNYXYDCsyynAe0yax5sHBHbnjJey5Yom/view?usp=sharing](https://drive.google.com/file/d/1BNYXYDCsyynAe0yax5sHBHbnjJey5Yom/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1w8nWH5yQ_VeDHiXfde9_N-9mNRreUkSm/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
